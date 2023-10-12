@@ -1,0 +1,14 @@
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\bin\Debug\net6.0\DiceRollerLab.exe
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\bin\Debug\net6.0\DiceRollerLab.deps.json
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\bin\Debug\net6.0\DiceRollerLab.runtimeconfig.json
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\bin\Debug\net6.0\DiceRollerLab.dll
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\bin\Debug\net6.0\DiceRollerLab.pdb
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.AssemblyInfoInputs.cache
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.AssemblyInfo.cs
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.csproj.CoreCompileInputs.cache
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.dll
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\obj\Debug\net6.0\refint\DiceRollerLab.dll
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.pdb
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\obj\Debug\net6.0\DiceRollerLab.genruntimeconfig.cache
+C:\Users\ksole\Documents\GrandCircus\DiceRollerLab\obj\Debug\net6.0\ref\DiceRollerLab.dll
